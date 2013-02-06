@@ -1,6 +1,6 @@
-====================
-Django Debug Toolbar
-====================
+=====================
+Django Database Tools
+=====================
 
 Django Db Tools is a set of Database tools that are helpful when running 
 applications with Django in production. The primary initial tool allows for
